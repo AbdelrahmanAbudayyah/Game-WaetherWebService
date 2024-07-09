@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Game-WaetherWebService/static/css/main.45aa2773.css",
+    "main.js": "/Game-WaetherWebService/static/js/main.ccfb496c.js",
+    "static/js/592.77751a5b.chunk.js": "/Game-WaetherWebService/static/js/592.77751a5b.chunk.js",
+    "static/media/painting6.jpg": "/Game-WaetherWebService/static/media/painting6.dd6871b0fc9566ad885d.jpg",
+    "static/media/painting1.jpg": "/Game-WaetherWebService/static/media/painting1.3e1ed8d1553dbd8670e3.jpg",
+    "static/media/painting4.jpg": "/Game-WaetherWebService/static/media/painting4.3a704e41c4c3c04abdcc.jpg",
+    "static/media/painting3.jpg": "/Game-WaetherWebService/static/media/painting3.121a7988beba5285bc12.jpg",
+    "static/media/painting5.jpg": "/Game-WaetherWebService/static/media/painting5.99308481f99bd1d650ce.jpg",
+    "static/media/painting2.jpg": "/Game-WaetherWebService/static/media/painting2.9e5b0927366108f9a56c.jpg",
+    "static/media/logo.svg": "/Game-WaetherWebService/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Game-WaetherWebService/index.html",
+    "main.45aa2773.css.map": "/Game-WaetherWebService/static/css/main.45aa2773.css.map",
+    "main.ccfb496c.js.map": "/Game-WaetherWebService/static/js/main.ccfb496c.js.map",
+    "592.77751a5b.chunk.js.map": "/Game-WaetherWebService/static/js/592.77751a5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45aa2773.css",
+    "static/js/main.ccfb496c.js"
+  ]
+}
